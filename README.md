@@ -19,11 +19,6 @@ An end-to-end automated video generation tool that converts text into profession
 
 ##  How to Run Locally
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Subhash79-Soni/AI-Video-Generator-Flask.git](https://github.com/Subhash79-Soni/AI-Video-Generator-Flask.git)
-   cd AI-Video-Generator-Flask
-
  * Install Required Libraries:
    pip install flask requests moviepy edge-tts pillow nltk
 
