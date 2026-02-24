@@ -30,7 +30,8 @@ An end-to-end automated video generation tool that converts text into profession
 
  * Generate Videos:
    Open your browser and navigate to http://127.0.0.1:5000. Enter your text and click "Video Banao"!
-Author
+
+## Author
 Subhash Chandra Soni
  * B.Tech Computer Science (2022-2026), Gopal Narayan Singh University
  * Passionate about Artificial Intelligence, Data Science, and Backend Development.
